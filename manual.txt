@@ -1,0 +1,16 @@
+1 quando já estiver baixado do git
+
+clicar em terminal
+Novo terminal
+
+2 cd public_html
+
+3 cd _core
+
+4 composer update
+
+5 cd ..
+
+6 cd ..
+
+7 php -S localhost:8042 -t public_html
